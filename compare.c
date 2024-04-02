@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    print('Printing something');
+    printf("Printing something");
+    printf("Second Line");
+    printf("third line");
+
+
     
     return 0;
 }
